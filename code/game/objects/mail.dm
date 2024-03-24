@@ -189,7 +189,7 @@
 							/obj/item/poster/random_official,
 							/obj/item/book/manual/wiki/sop_command,
 							/obj/item/reagent_containers/patch/synthflesh,
-							/obj/item/paper_bin/nanotrasen,
+							/obj/item/paper_stack/paper_bin/nanotrasen,
 							/obj/item/food/snacks/spesslaw,
 							/obj/item/clothing/head/collectable/petehat,
 							/obj/item/toy/figure/crew/captain,

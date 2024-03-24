@@ -1314,7 +1314,7 @@
 /area/ninja/holding)
 "fd" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /obj/machinery/economy/vending/wallmed{
 	name = "Emergency NanoMed";
@@ -3091,7 +3091,7 @@
 /area/syndicate_mothership)
 "kO" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen/red,
 /turf/simulated/floor/plasteel/dark,
 /area/syndicate_mothership)
@@ -5588,7 +5588,7 @@
 /area/ghost_bar)
 "sV" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/plasteel{
 	icon_state = "vault"
@@ -6328,7 +6328,7 @@
 "vA" = (
 /obj/structure/railing,
 /obj/structure/table/wood,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/wood,
 /area/trader_station/sol)
@@ -6447,7 +6447,7 @@
 "vT" = (
 /obj/structure/table,
 /obj/structure/window/reinforced,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/carpet,
 /area/admin)
@@ -7339,7 +7339,7 @@
 /area/admin)
 "Ae" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/plasteel/dark,
 /area/centcom/specops)
@@ -8459,7 +8459,7 @@
 /area/wizard_station)
 "Ef" = (
 /obj/structure/table/reinforced,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/plasteel{
 	dir = 4;
@@ -8811,7 +8811,7 @@
 /area/holodeck/source_knightarena)
 "Fy" = (
 /obj/structure/table/reinforced,
-/obj/item/paper_bin{
+/obj/item/paper_stack/paper_bin{
 	pixel_x = 8;
 	pixel_y = -4
 	},
@@ -9209,7 +9209,7 @@
 /area/centcom/specops)
 "GR" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin{
+/obj/item/paper_stack/paper_bin{
 	pixel_y = 5
 	},
 /obj/item/pen/multi,
@@ -10538,7 +10538,7 @@
 /area/centcom/specops)
 "Lt" = (
 /obj/structure/table,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/plasteel{
 	dir = 1;
@@ -11211,7 +11211,7 @@
 /area/centcom/evac)
 "Nv" = (
 /obj/structure/table/reinforced,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /obj/effect/landmark/spawner/commando_manual,
 /turf/simulated/floor/plasteel/dark,
@@ -12468,7 +12468,7 @@
 /area/ghost_bar)
 "RO" = (
 /obj/structure/table/reinforced,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/wood,
 /area/centcom/control)
@@ -12533,7 +12533,7 @@
 /area/centcom/control)
 "Sa" = (
 /obj/structure/table,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /obj/machinery/door_control/no_emag{
 	id = "CCcustoms1";
@@ -13871,7 +13871,7 @@
 /area/centcom/evac)
 "Xe" = (
 /obj/structure/table,
-/obj/item/paper_bin,
+/obj/item/paper_stack/paper_bin,
 /obj/item/pen,
 /turf/simulated/floor/plasteel{
 	dir = 8;
@@ -14531,7 +14531,7 @@
 /area/shuttle/escape)
 "Zq" = (
 /obj/structure/table/wood,
-/obj/item/paper_bin{
+/obj/item/paper_stack/paper_bin{
 	pixel_x = -3;
 	pixel_y = 7
 	},

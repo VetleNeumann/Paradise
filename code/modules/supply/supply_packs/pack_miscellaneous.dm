@@ -93,7 +93,7 @@
 					/obj/item/hand_labeler_refill,
 					/obj/item/hand_labeler_refill,
 					/obj/item/stack/tape_roll,
-					/obj/item/paper_bin,
+					/obj/item/paper_stack/paper_bin,
 					/obj/item/pen,
 					/obj/item/pen/blue,
 					/obj/item/pen/red,

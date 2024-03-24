@@ -2,6 +2,8 @@
 //Keep this sorted alphabetically
 
 #ifdef UNIT_TESTS
+#include "games/cards.dm"
+#include "paperwork/paperbin.dm"
 #include "aicard_icons.dm"
 #include "announcements.dm"
 #include "areas_apcs.dm"
